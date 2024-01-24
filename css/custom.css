@@ -3,7 +3,11 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    font-family: 'Oxygen', sans-serif;
     
+}
+
+body{
+    width: 100%;
+    font-family: 'Oxygen', sans-serif;
+    overflow-x: hidden;
 }
